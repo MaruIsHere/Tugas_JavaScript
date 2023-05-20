@@ -14,7 +14,7 @@
     <p>Luas Segi Empat</p>
     <tr>
     <div><td>Panjang :</td></div>
-    <div><td><input type="text" name="txPNJG" id="txPNJG"></td</div> 
+    <div><td><input type="text" name="txPNJG" id="txPNJG"></td></div> 
     </tr>
     <tr>
     <div><td>Lebar :</td></div>
